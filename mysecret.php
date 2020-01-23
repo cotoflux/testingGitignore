@@ -1,6 +1,6 @@
 <?php 
 
-include("secretInfo.php");
+include("ignore/secretInfo.php");
 include("vendor/autoload.php");
 
 $password = PASSWORD;  //defined in secretInfo.php
